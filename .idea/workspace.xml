@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd4191e0-3f3d-49c5-b221-7c7bbfc7035f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoCalcSwingSQL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loginForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loginForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racing-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registerForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registerForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testForm.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd4191e0-3f3d-49c5-b221-7c7bbfc7035f" name="Changes" comment="Usa car import cost calculation program structure changing with java swing and sql database to create simple interface for regular users with login, registration, calculator and history." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671096961220</updated>
     </task>
+    <task id="LOCAL-00001" summary="Usa car import cost calculation program structure changing with java swing and sql database to create simple interface for regular users with login, registration, calculator and history.">
+      <created>1671115857348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671115857348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Usa car import cost calculation program structure changing with java swing and sql database to create simple interface for regular users with login, registration, calculator and history." />
+    <option name="LAST_COMMIT_MESSAGE" value="Usa car import cost calculation program structure changing with java swing and sql database to create simple interface for regular users with login, registration, calculator and history." />
   </component>
 </project>
